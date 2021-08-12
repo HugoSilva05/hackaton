@@ -1,0 +1,55 @@
+/*Imagem de fundo*/
+.bg-imagem{
+    height: 48vw;
+    background-image: url(./img/farmaceutica.jpeg);
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .bg-imagem p{
+    font-size: 4vw;
+    text-shadow: 4px 4px 8px black;
+  }
+  .preco{
+    color: #e63946;  
+  }
+
+
+  /* Barra de Navegação*/
+
+.social{
+    color:#FF6B6C ;
+
+}
+
+
+
+  .nav-link{
+    color: #EAEAEA !important;
+  }
+
+  .color1{
+    background-color:  #706993;
+    color:  #EAEAEA;
+    border-bottom-left-radius: none;
+  }
+  .pesquisar{
+    border: 0px !important;
+    border-radius: 5px 0px 0px 5px !important;
+  
+  }
+  .botao-pesquisar{
+    border-radius: 0px 5px 5px 0px !important;
+
+  }
+
+  .card-contato{
+    border: none;
+  }
+
+  #corpo{
+    background-color: #EAEAEA;
+  }
+  .barra{
+    opacity: 0.9;
+  }
